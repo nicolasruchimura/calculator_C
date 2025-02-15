@@ -1,0 +1,3 @@
+C:/Users/nicol/OneDrive/Desktop/C/personal/projeto1((/cmake-build-debug/CMakeFiles/projeto1__.dir
+C:/Users/nicol/OneDrive/Desktop/C/personal/projeto1((/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nicol/OneDrive/Desktop/C/personal/projeto1((/cmake-build-debug/CMakeFiles/rebuild_cache.dir
